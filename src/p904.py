@@ -1,7 +1,7 @@
 
 class Solution:
 
-	# Binary Seach : T(n) : O(nlogn), S{n} : O(1)
+    # Binary Seach : T(n) : O(nlogn), S{n} : O(1)
     def solve(self, piles, k):
 
         def check(piles, t): 
